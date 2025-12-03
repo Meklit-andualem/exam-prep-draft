@@ -1,0 +1,1232 @@
+{
+    "tests": [
+        {
+            "id": 1,
+            "title": "Practice Test 1",
+            "duration_minutes": 40,
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Which of the following statements are NOT true about nitrogen-fixing bacteria?",
+                    "options": [
+                        "Converts nitrogen gas into ammonium ions",
+                        "Are found in nodules on the roots of legumes",
+                        "Break down nitrate ions into ammonium ions",
+                        "Plays a vital role in the nitrogen cycle in nature"
+                    ],
+                    "answer": 2,
+                    "topic": "Microbiology"
+                },
+                {
+                    "id": 2,
+                    "question": "The only acellular micro-organism is:",
+                    "options": [
+                        "Fungi",
+                        "Bacteria",
+                        "Viruses",
+                        "Protozoa"
+                    ],
+                    "answer": 2,
+                    "topic": "Microbiology"
+                },
+                {
+                    "id": 3,
+                    "question": "Which of the following are the most significant factors in determining biome type?",
+                    "options": [
+                        "Soil type and soil depth",
+                        "Temperature and rainfall",
+                        "Temperature and climates",
+                        "Climates and grazing animals"
+                    ],
+                    "answer": 1,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 4,
+                    "question": "Biodiversity is:",
+                    "options": [
+                        "An area with specific biotic and abiotic conditions",
+                        "A measure taken by people to restore an ecosystem",
+                        "Replacement of one ecosystem by another ecosystem",
+                        "A measure of the overall variability of life on the Earth"
+                    ],
+                    "answer": 3,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 5,
+                    "question": "The presence of several different biomes within Ethiopia results in:",
+                    "options": [
+                        "The high species richness of plants and mammals",
+                        "The low species richness of plants and mammals",
+                        "The high species richness of plants but low mammals",
+                        "The high species richness of mammals but low plant"
+                    ],
+                    "answer": 0,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 6,
+                    "question": "The genetic code is NOT a:",
+                    "options": [
+                        "Triplet code",
+                        "Universal code",
+                        "Degenerate code",
+                        "Overlapping code"
+                    ],
+                    "answer": 3,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 7,
+                    "question": "Chromosomes are made from two chemicals:",
+                    "options": [
+                        "DNA and a set of globular proteins",
+                        "RNA and a set of globular proteins",
+                        "DNA and a set of fibrous proteins",
+                        "RNA and a set of fibrous proteins"
+                    ],
+                    "answer": 2,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 8,
+                    "question": "A woman with unknown blood type and a man also with unknown blood type could potentially have four children with all blood groups in different years. What are the possible blood groups of the parents?",
+                    "options": [
+                        "A and B blood group",
+                        "A and O blood group",
+                        "B and O blood group",
+                        "AB and O blood group"
+                    ],
+                    "answer": 3,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 9,
+                    "question": "Cytosine makes up 42% of the nucleotides in a sample of DNA from an organism. Approximately what percentage of the nucleotides in this sample will be thymine?",
+                    "options": [
+                        "58%",
+                        "42%",
+                        "16%",
+                        "8%"
+                    ],
+                    "answer": 3,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 10,
+                    "question": "A person who has type O blood has:",
+                    "options": [
+                        "A antigens on the cell surface",
+                        "B antigens on the cell surface",
+                        "No surface antigens on the cells",
+                        "Both A and B antigens on the cell surface"
+                    ],
+                    "answer": 2,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 11,
+                    "question": "The four daughter cells produced in meiosis will have a:",
+                    "options": [
+                        "n number of chromosomes and will differ genetically from each other",
+                        "2n number of chromosomes and will differ genetically from each other",
+                        "2n number of chromosomes and will be genetically identical to each other",
+                        "n number of chromosomes and will be genetically identical to each other"
+                    ],
+                    "answer": 0,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 12,
+                    "question": "What characterizes a prokaryotic cell?",
+                    "options": [
+                        "The presence of mitochondria",
+                        "The presence of chloroplasts",
+                        "The membrane bound nucleus",
+                        "The unicellular level of organization"
+                    ],
+                    "answer": 3,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 13,
+                    "question": "A larger brain NOT allows humans to:",
+                    "options": [
+                        "Create life on the planet Earth",
+                        "Plan in advance to avoid attack",
+                        "Develop and use tools and weapons",
+                        "Run faster in a more upright posture"
+                    ],
+                    "answer": 3,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 14,
+                    "question": "When single-stranded DNA from a human is mixed with single-stranded DNA from a chimpanzee, we find that about 98% of the DNA is homologous. This can be taken as evidence that:",
+                    "options": [
+                        "Humans evolved from chimpanzees",
+                        "Chimpanzees evolved from humans",
+                        "Humans and chimpanzees are closely related",
+                        "Humans and chimpanzees originated in similar environments"
+                    ],
+                    "answer": 2,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 15,
+                    "question": "Which of following is NOT the observations on which Darwin based his theory of evolution?",
+                    "options": [
+                        "The offspring show a great deal of genetic variation",
+                        "Characteristics are inheritable from parent to offspring",
+                        "The inheritance of the acquired traits from parent to offspring",
+                        "Competition of offspring for resources (survival of the fittest)"
+                    ],
+                    "answer": 2,
+                    "topic": "Evolution"
+                },
+                {
+                    "id": 16,
+                    "question": "Which of the following determines the sex of a child?",
+                    "options": [
+                        "The length of the mother’s pregnancy period",
+                        "The presence of a Y chromosome in a sperm",
+                        "The presence of an X chromosome in an ovum",
+                        "The length of time between ovulation and copulation"
+                    ],
+                    "answer": 1,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 17,
+                    "question": "A cross between two individuals results in a ratio of 9:3:1 for four possible phenotypes of progeny. This is an example of a:",
+                    "options": [
+                        "Trihybrid cross",
+                        "Trihybrid cross",
+                        "Test or back cross",
+                        "Monohybrid cross"
+                    ],
+                    "answer": 0,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 18,
+                    "question": "A pregnant woman has an equal chance of her baby being blood group A or blood group AB. Which one of the following shows the possible genotypes of the woman and the father of her child?",
+                    "options": [
+                        "IAIA and IBIB",
+                        "IAIB IAIB and IBIO IBIO",
+                        "IAIO IAIO and IBIO IBIO",
+                        "IAIB IAIB and IAIO IAIO"
+                    ],
+                    "answer": 3,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 19,
+                    "question": "Functions of transferases enzymes:",
+                    "options": [
+                        "Change of the molecular form of the substrate molecules",
+                        "Joining of two molecules by the formation of new bonds",
+                        "Transfer of a specific group from one substrate to another",
+                        "Removal of nonhydrolytic group from a substrate molecules"
+                    ],
+                    "answer": 2,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 20,
+                    "question": "Some enzymes have been named based on the source from which they were first identified. An example of this is:",
+                    "options": [
+                        "Pepsin",
+                        "Papayin",
+                        "Nuclease",
+                        "Amylase"
+                    ],
+                    "answer": 1,
+                    "topic": "Biochemistry"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Practice Test 2",
+            "duration_minutes": 40,
+            "questions": [
+                {
+                    "id": 21,
+                    "question": "In which organelle would the given events most likely occur?",
+                    "options": [
+                        "Lysosome",
+                        "Ribosome",
+                        "Mitochondrion",
+                        "Chloroplast"
+                    ],
+                    "answer": 2,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 22,
+                    "question": "In cellular respiration process, the carriers for the electron transport system are located:",
+                    "options": [
+                        "Within stroma of chloroplast",
+                        "On the cristae of mitochondria",
+                        "Within matrix of mitochondria",
+                        "Within the cytoplasm of a cell"
+                    ],
+                    "answer": 1,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 23,
+                    "question": "Which of the following pathways will use coenzyme A during aerobic cellular respiration?",
+                    "options": [
+                        "Glycolysis",
+                        "Link reaction",
+                        "Kreb cycle",
+                        "Calvin cycle"
+                    ],
+                    "answer": 1,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 24,
+                    "question": "How many times does the Krebs cycle turn per glucose molecule break down?",
+                    "options": [
+                        "Five times",
+                        "Four times",
+                        "Two times",
+                        "Three times"
+                    ],
+                    "answer": 2,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 25,
+                    "question": "Which one of the following metabolic pathways is common in aerobic and anaerobic respiration?",
+                    "options": [
+                        "Glycolysis",
+                        "Chemiosmosis",
+                        "Citric acid cycle",
+                        "Oxidative phosphorylation"
+                    ],
+                    "answer": 0,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 26,
+                    "question": "The light reactions occur in the ______ while the Calvin cycle occurs in the ______",
+                    "options": [
+                        "Cytosol of cytoplasm ... stroma",
+                        "Thylakoid membranes ... stroma",
+                        "Stroma ... thylakoid membranes",
+                        "Cytoplasm ... thylakoid membrane"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 27,
+                    "question": "Which of the following processes produces the most ATP per molecule of glucose oxidized?",
+                    "options": [
+                        "Aerobic respiration",
+                        "Anaerobic respiration",
+                        "Alcoholic fermentation",
+                        "Lactic acid fermentation"
+                    ],
+                    "answer": 0,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 28,
+                    "question": "What are the products of the light reactions that are subsequently used by the independent reaction of photosynthesis?",
+                    "options": [
+                        "Carbon dioxide and RuBP",
+                        "Oxygen and carbon dioxide",
+                        "ATP and NADPH",
+                        "Electrons and photons"
+                    ],
+                    "answer": 2,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 29,
+                    "question": "The immediate products of C3 and C4 photosynthesis in the light-independent reactions of the Calvin cycle are, respectively:",
+                    "options": [
+                        "Ribulose bisphosphate and malic acid",
+                        "Carbon dioxide and glucose molecule",
+                        "Phosphoglycerate and oxaloacetate",
+                        "Glyceraldehydes phosphate and phospho-enolenol-pyruvate"
+                    ],
+                    "answer": 2,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 30,
+                    "question": "In which of the following type of dominance, both extremes have a selective advantage compared with the mean and the two distinct types begin to emerge showing the extreme values of the original population?",
+                    "options": [
+                        "Disruptive selection",
+                        "Stabilising selection",
+                        "Artificial selection",
+                        "Directional selection"
+                    ],
+                    "answer": 0,
+                    "topic": "Evolution"
+                },
+                {
+                    "id": 31,
+                    "question": "The structure of a protein that describes the overall shape formed by several polypeptide chains which compose the protein?",
+                    "options": [
+                        "Primary structure",
+                        "Tertiary structure",
+                        "Secondary structure",
+                        "Quaternary structure"
+                    ],
+                    "answer": 3,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 32,
+                    "question": "Which of the following organisms have the greatest problem with photorespiration?",
+                    "options": [
+                        "C2 plants",
+                        "C3 plants",
+                        "C4 plants",
+                        "CAM plants"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 33,
+                    "question": "Which of the following is NOT archaebacteria?",
+                    "options": [
+                        "Sulphobacteria",
+                        "Methanobacteria",
+                        "Halophilic bacteria",
+                        "Cyanobacteria"
+                    ],
+                    "answer": 3,
+                    "topic": "Microbiology"
+                },
+                {
+                    "id": 34,
+                    "question": "Which of the following is abiotic factors that influence how quickly a population of the same species or of a different species increases in size or decreases in size?",
+                    "options": [
+                        "Predation",
+                        "Pathogens",
+                        "Temperature",
+                        "Competition"
+                    ],
+                    "answer": 2,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 35,
+                    "question": "Why is the leaf boiled in alcohol using a water bath instead of direct heating in starch test?",
+                    "options": [
+                        "To speed up chlorophyll extraction",
+                        "To prevent alcohol from igniting due to flammability",
+                        "To avoid denaturing starch molecules",
+                        "To enhance iodine’s reactivity with starch"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 36,
+                    "question": "If a student skips boiling leaf in water first, what is the most likely outcome?",
+                    "options": [
+                        "Chlorophyll will not be removed, masking the iodine test result",
+                        "Enzymes in the leaf will continue metabolizing starch, leading to a false negative",
+                        "The leaf cells will rupture, releasing starch prematurely",
+                        "Iodine will fail to penetrate the leaf’s waxy cuticle"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 37,
+                    "question": "What observation confirms the presence of starch in the leaf?",
+                    "options": [
+                        "The leaf turns yellow-brown upon iodine application",
+                        "The leaf develops a blue-black coloration",
+                        "The chlorophyll dissolves, revealing white patches",
+                        "The iodine solution forms a purple precipitate"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 38,
+                    "question": "The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:",
+                    "options": [
+                        "Two molecules of ATP",
+                        "Four molecules of ATP",
+                        "Thirty-six molecules of ATP",
+                        "Thirty-eight molecules of ATP"
+                    ],
+                    "answer": 0,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 39,
+                    "question": "Unknown enzyme added to starch and sucrose. Starch positive, sucrose negative. Which enzyme?",
+                    "options": [
+                        "Lipase",
+                        "Sucrase",
+                        "Amylase",
+                        "Lactase"
+                    ],
+                    "answer": 2,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 40,
+                    "question": "Competitive inhibitors stop an enzyme from working by:",
+                    "options": [
+                        "Changing the shape of the enzyme molecule",
+                        "Binding with the substrate to form complex product",
+                        "Combining with the end product of the biological reaction",
+                        "Blocking the active site of the enzyme in a reversible manner"
+                    ],
+                    "answer": 3,
+                    "topic": "Biochemistry"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Practice Test 3",
+            "duration_minutes": 40,
+            "questions": [
+                {
+                    "id": 41,
+                    "question": "The type of enzyme that removes a phosphate group from a molecule is called:",
+                    "options": [
+                        "Kinase",
+                        "Phosphatase",
+                        "Ligase",
+                        "Isomerase"
+                    ],
+                    "answer": 1,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 42,
+                    "question": "Which of the following organelles is responsible for producing ATP?",
+                    "options": [
+                        "Ribosome",
+                        "Mitochondria",
+                        "Golgi apparatus",
+                        "Lysosome"
+                    ],
+                    "answer": 1,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 43,
+                    "question": "Which blood vessels carry blood away from the heart?",
+                    "options": [
+                        "Veins",
+                        "Arteries",
+                        "Capillaries",
+                        "Venules"
+                    ],
+                    "answer": 1,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 44,
+                    "question": "In which phase of meiosis do homologous chromosomes separate?",
+                    "options": [
+                        "Anaphase I",
+                        "Anaphase II",
+                        "Metaphase I",
+                        "Metaphase II"
+                    ],
+                    "answer": 0,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 45,
+                    "question": "Which of the following is NOT a function of the liver?",
+                    "options": [
+                        "Detoxification of chemicals",
+                        "Production of bile",
+                        "Filtration of blood",
+                        "Storage of glycogen"
+                    ],
+                    "answer": 2,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 46,
+                    "question": "Which of the following is a C4 plant?",
+                    "options": [
+                        "Wheat",
+                        "Maize",
+                        "Rice",
+                        "Barley"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 47,
+                    "question": "Which macromolecule is primarily used for long-term energy storage in animals?",
+                    "options": [
+                        "Carbohydrates",
+                        "Proteins",
+                        "Fats",
+                        "Nucleic acids"
+                    ],
+                    "answer": 2,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 48,
+                    "question": "What is the main product of glycolysis?",
+                    "options": [
+                        "Pyruvate",
+                        "Acetyl-CoA",
+                        "Glucose",
+                        "Lactate"
+                    ],
+                    "answer": 0,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 49,
+                    "question": "Which of the following is a density-dependent factor affecting population growth?",
+                    "options": [
+                        "Flood",
+                        "Fire",
+                        "Predation",
+                        "Earthquake"
+                    ],
+                    "answer": 2,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 50,
+                    "question": "Which organelle is responsible for protein modification and packaging?",
+                    "options": [
+                        "Rough ER",
+                        "Smooth ER",
+                        "Golgi apparatus",
+                        "Nucleus"
+                    ],
+                    "answer": 2,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 51,
+                    "question": "Which type of RNA carries the genetic information from DNA to ribosomes?",
+                    "options": [
+                        "tRNA",
+                        "rRNA",
+                        "mRNA",
+                        "snRNA"
+                    ],
+                    "answer": 2,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 52,
+                    "question": "Which process produces gametes with half the chromosome number of the parent?",
+                    "options": [
+                        "Mitosis",
+                        "Meiosis",
+                        "Fertilization",
+                        "Binary fission"
+                    ],
+                    "answer": 1,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 53,
+                    "question": "Which of the following is an example of mutualism?",
+                    "options": [
+                        "Tick on a dog",
+                        "Oxpecker bird and zebra",
+                        "Mosquito and human",
+                        "Leech on a fish"
+                    ],
+                    "answer": 1,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 54,
+                    "question": "Which biomolecule forms the main structural component of cell membranes?",
+                    "options": [
+                        "Proteins",
+                        "Carbohydrates",
+                        "Lipids",
+                        "Nucleic acids"
+                    ],
+                    "answer": 2,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 55,
+                    "question": "Which type of selection favors individuals with traits at both extremes?",
+                    "options": [
+                        "Directional selection",
+                        "Stabilizing selection",
+                        "Disruptive selection",
+                        "Artificial selection"
+                    ],
+                    "answer": 2,
+                    "topic": "Evolution"
+                },
+                {
+                    "id": 56,
+                    "question": "The primary structure of a protein is:",
+                    "options": [
+                        "The amino acid sequence",
+                        "The 3D folding",
+                        "Alpha helix or beta sheet folding",
+                        "Combination of multiple polypeptides"
+                    ],
+                    "answer": 0,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 57,
+                    "question": "Which hormone regulates blood sugar levels?",
+                    "options": [
+                        "Insulin",
+                        "Adrenaline",
+                        "Thyroxine",
+                        "Growth hormone"
+                    ],
+                    "answer": 0,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 58,
+                    "question": "Which type of nucleic acid stores genetic information?",
+                    "options": [
+                        "DNA",
+                        "RNA",
+                        "ATP",
+                        "NADH"
+                    ],
+                    "answer": 0,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 59,
+                    "question": "Which ecological pyramid shows the number of organisms at each trophic level?",
+                    "options": [
+                        "Pyramid of numbers",
+                        "Pyramid of biomass",
+                        "Pyramid of energy",
+                        "Pyramid of productivity"
+                    ],
+                    "answer": 0,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 60,
+                    "question": "Which of the following is a function of the kidney?",
+                    "options": [
+                        "Filter blood to remove waste",
+                        "Secrete digestive enzymes",
+                        "Store bile",
+                        "Produce insulin"
+                    ],
+                    "answer": 0,
+                    "topic": "Human Biology"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Practice Test 4",
+            "duration_minutes": 40,
+            "questions": [
+                {
+                    "id": 61,
+                    "question": "Which blood type is considered the universal donor?",
+                    "options": [
+                        "A",
+                        "B",
+                        "AB",
+                        "O"
+                    ],
+                    "answer": 3,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 62,
+                    "question": "Which process in plants converts CO2 into glucose?",
+                    "options": [
+                        "Respiration",
+                        "Photosynthesis",
+                        "Fermentation",
+                        "Transpiration"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 63,
+                    "question": "Which structure controls the movement of substances in and out of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Cell membrane",
+                        "Cytoplasm",
+                        "Ribosome"
+                    ],
+                    "answer": 1,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 64,
+                    "question": "Which stage of mitosis involves separation of sister chromatids?",
+                    "options": [
+                        "Prophase",
+                        "Metaphase",
+                        "Anaphase",
+                        "Telophase"
+                    ],
+                    "answer": 2,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 65,
+                    "question": "Which enzyme synthesizes RNA from a DNA template?",
+                    "options": [
+                        "DNA polymerase",
+                        "RNA polymerase",
+                        "Ligase",
+                        "Helicase"
+                    ],
+                    "answer": 1,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 66,
+                    "question": "Which of the following is a biotic factor in an ecosystem?",
+                    "options": [
+                        "Sunlight",
+                        "Temperature",
+                        "Predators",
+                        "pH"
+                    ],
+                    "answer": 2,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 67,
+                    "question": "Which type of macromolecule is an enzyme?",
+                    "options": [
+                        "Carbohydrate",
+                        "Lipid",
+                        "Protein",
+                        "Nucleic acid"
+                    ],
+                    "answer": 2,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 68,
+                    "question": "Which organelle contains digestive enzymes to break down macromolecules?",
+                    "options": [
+                        "Lysosome",
+                        "Ribosome",
+                        "Mitochondria",
+                        "Golgi apparatus"
+                    ],
+                    "answer": 0,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 69,
+                    "question": "Which type of RNA brings amino acids to the ribosome?",
+                    "options": [
+                        "mRNA",
+                        "tRNA",
+                        "rRNA",
+                        "snRNA"
+                    ],
+                    "answer": 1,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 70,
+                    "question": "Which of the following is NOT a greenhouse gas?",
+                    "options": [
+                        "Carbon dioxide",
+                        "Methane",
+                        "Oxygen",
+                        "Nitrous oxide"
+                    ],
+                    "answer": 2,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 71,
+                    "question": "Which of the following is the main energy currency of the cell?",
+                    "options": [
+                        "ATP",
+                        "ADP",
+                        "Glucose",
+                        "NADH"
+                    ],
+                    "answer": 0,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 72,
+                    "question": "Which type of selection favors individuals with intermediate traits?",
+                    "options": [
+                        "Directional selection",
+                        "Stabilizing selection",
+                        "Disruptive selection",
+                        "Artificial selection"
+                    ],
+                    "answer": 1,
+                    "topic": "Evolution"
+                },
+                {
+                    "id": 73,
+                    "question": "Which part of the brain controls coordination and balance?",
+                    "options": [
+                        "Cerebrum",
+                        "Cerebellum",
+                        "Medulla oblongata",
+                        "Hypothalamus"
+                    ],
+                    "answer": 1,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 74,
+                    "question": "Which of the following is an example of parasitism?",
+                    "options": [
+                        "Oxpecker and zebra",
+                        "Mosquito and human",
+                        "Bees and flowers",
+                        "Clownfish and anemone"
+                    ],
+                    "answer": 1,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 75,
+                    "question": "Which type of chemical bond holds together the two strands of DNA?",
+                    "options": [
+                        "Covalent bond",
+                        "Hydrogen bond",
+                        "Ionic bond",
+                        "Peptide bond"
+                    ],
+                    "answer": 1,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 76,
+                    "question": "Which organ produces insulin?",
+                    "options": [
+                        "Liver",
+                        "Pancreas",
+                        "Kidney",
+                        "Spleen"
+                    ],
+                    "answer": 1,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 77,
+                    "question": "Which process breaks down glucose to produce energy in the absence of oxygen?",
+                    "options": [
+                        "Aerobic respiration",
+                        "Anaerobic respiration",
+                        "Photosynthesis",
+                        "Calvin cycle"
+                    ],
+                    "answer": 1,
+                    "topic": "Cellular Biology"
+                },
+                {
+                    "id": 78,
+                    "question": "Which of the following is NOT part of the light-dependent reactions of photosynthesis?",
+                    "options": [
+                        "Water splitting",
+                        "ATP formation",
+                        "NADPH formation",
+                        "Carbon fixation"
+                    ],
+                    "answer": 3,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 79,
+                    "question": "Which type of organism is a primary consumer in a food chain?",
+                    "options": [
+                        "Herbivore",
+                        "Carnivore",
+                        "Omnivore",
+                        "Decomposer"
+                    ],
+                    "answer": 0,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 80,
+                    "question": "Which molecule carries genetic information from the nucleus to the cytoplasm?",
+                    "options": [
+                        "DNA",
+                        "mRNA",
+                        "tRNA",
+                        "Protein"
+                    ],
+                    "answer": 1,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 81,
+                    "question": "Which vitamin is synthesized by exposure to sunlight?",
+                    "options": [
+                        "Vitamin A",
+                        "Vitamin B12",
+                        "Vitamin C",
+                        "Vitamin D"
+                    ],
+                    "answer": 3,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 82,
+                    "question": "Which of the following is a characteristic of prokaryotic cells?",
+                    "options": [
+                        "Membrane-bound nucleus",
+                        "Membrane-bound organelles",
+                        "Single circular DNA molecule",
+                        "Multiple linear chromosomes"
+                    ],
+                    "answer": 2,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 83,
+                    "question": "Which of the following best describes evolution?",
+                    "options": [
+                        "Change in allele frequencies over time",
+                        "Development of individual organisms",
+                        "Inheritance of acquired characteristics",
+                        "Sudden changes in phenotype"
+                    ],
+                    "answer": 0,
+                    "topic": "Evolution"
+                },
+                {
+                    "id": 84,
+                    "question": "Which plant tissue is responsible for transporting water?",
+                    "options": [
+                        "Phloem",
+                        "Xylem",
+                        "Parenchyma",
+                        "Collenchyma"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 85,
+                    "question": "Which stage of the cell cycle involves DNA replication?",
+                    "options": [
+                        "G1 phase",
+                        "S phase",
+                        "G2 phase",
+                        "M phase"
+                    ],
+                    "answer": 1,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 86,
+                    "question": "Which type of ecological interaction benefits both species involved?",
+                    "options": [
+                        "Competition",
+                        "Predation",
+                        "Mutualism",
+                        "Parasitism"
+                    ],
+                    "answer": 2,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 87,
+                    "question": "Which organ filters blood and produces urine?",
+                    "options": [
+                        "Liver",
+                        "Kidney",
+                        "Heart",
+                        "Lung"
+                    ],
+                    "answer": 1,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 88,
+                    "question": "Which enzyme breaks down starch into maltose?",
+                    "options": [
+                        "Lipase",
+                        "Amylase",
+                        "Protease",
+                        "Cellulase"
+                    ],
+                    "answer": 1,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 89,
+                    "question": "Which type of mutation involves a single nucleotide change?",
+                    "options": [
+                        "Insertion",
+                        "Deletion",
+                        "Substitution",
+                        "Frameshift"
+                    ],
+                    "answer": 2,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 90,
+                    "question": "Which part of the brain regulates heartbeat and breathing?",
+                    "options": [
+                        "Cerebellum",
+                        "Medulla oblongata",
+                        "Cerebrum",
+                        "Hypothalamus"
+                    ],
+                    "answer": 1,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 91,
+                    "question": "Which type of enzyme speeds up a reaction without being consumed?",
+                    "options": [
+                        "Catalyst",
+                        "Substrate",
+                        "Cofactor",
+                        "Inhibitor"
+                    ],
+                    "answer": 0,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 92,
+                    "question": "Which macronutrient provides the most energy per gram?",
+                    "options": [
+                        "Carbohydrates",
+                        "Proteins",
+                        "Fats",
+                        "Nucleic acids"
+                    ],
+                    "answer": 2,
+                    "topic": "Biochemistry"
+                },
+                {
+                    "id": 93,
+                    "question": "Which blood component is primarily responsible for clotting?",
+                    "options": [
+                        "Red blood cells",
+                        "White blood cells",
+                        "Platelets",
+                        "Plasma"
+                    ],
+                    "answer": 2,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 94,
+                    "question": "Which type of cell division produces genetically identical daughter cells?",
+                    "options": [
+                        "Mitosis",
+                        "Meiosis",
+                        "Binary fission",
+                        "Spore formation"
+                    ],
+                    "answer": 0,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 95,
+                    "question": "Which of the following is a characteristic of eukaryotic cells?",
+                    "options": [
+                        "Circular DNA",
+                        "No nucleus",
+                        "Membrane-bound organelles",
+                        "Smaller ribosomes"
+                    ],
+                    "answer": 2,
+                    "topic": "Cell Biology"
+                },
+                {
+                    "id": 96,
+                    "question": "Which process in plants results in water loss from leaves?",
+                    "options": [
+                        "Photosynthesis",
+                        "Transpiration",
+                        "Respiration",
+                        "Diffusion"
+                    ],
+                    "answer": 1,
+                    "topic": "Plant Physiology"
+                },
+                {
+                    "id": 97,
+                    "question": "Which trophic level consists of organisms that produce their own food?",
+                    "options": [
+                        "Primary producers",
+                        "Primary consumers",
+                        "Secondary consumers",
+                        "Tertiary consumers"
+                    ],
+                    "answer": 0,
+                    "topic": "Ecology"
+                },
+                {
+                    "id": 98,
+                    "question": "Which type of RNA is part of the ribosome structure?",
+                    "options": [
+                        "mRNA",
+                        "tRNA",
+                        "rRNA",
+                        "snRNA"
+                    ],
+                    "answer": 2,
+                    "topic": "Genetics"
+                },
+                {
+                    "id": 99,
+                    "question": "Which organ is the main site of nutrient absorption in humans?",
+                    "options": [
+                        "Stomach",
+                        "Small intestine",
+                        "Large intestine",
+                        "Liver"
+                    ],
+                    "answer": 1,
+                    "topic": "Human Biology"
+                },
+                {
+                    "id": 100,
+                    "question": "Which enzyme catalyzes the formation of RNA from DNA?",
+                    "options": [
+                        "DNA polymerase",
+                        "RNA polymerase",
+                        "Ligase",
+                        "Helicase"
+                    ],
+                    "answer": 1,
+                    "topic": "Genetics"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Biology — ExamPrep</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <div class="mark">EP</div>
+            <div class="brand">ExamPrep</div>
+        </div>
+        <nav><a href="index.html">Home</a> <a href="biology.html">Biology</a> <a href="#">Dashboard</a></nav>
+    </header>
+    <main class="container">
+        <section class="home-card">
+            <h1>Biology — Practice Tests (Demo)</h1>
+            <p>Select one of the 4 practice tests. Each test has 20 questions and simulates exam conditions.</p>
+            <div class="test-grid" id="tests"></div>
+        </section>
+
+
+        <section class="home-card" style="margin-top:20px">
+            <h3>Motivation</h3>
+            <blockquote>"You don't have to be great to start, but you have to start to be great."</blockquote>
+        </section>
+    </main>
+    <script>
+        // Render four test cards
+        const testsEl = document.getElementById('tests');
+        for (let i = 1; i <= 4; i++) {
+            const div = document.createElement('div'); div.className = 'test-card';
+            div.innerHTML = `<h4>Practice Test ${i}</h4><p>20 Questions — 40 minutes</p><p><button class=btn onclick="location.href='test.html?test=${i}'">Start Test ${i}</button></p>`;
+            testsEl.appendChild(div);
+        }
+    </script>
+    <script src="script.js"></script>
+</body>
+
+</html>
